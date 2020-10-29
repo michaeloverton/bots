@@ -1,0 +1,4 @@
+github.com/mb-14/gomarkov v0.0.0-20200824165802-565ae3f3c79f h1:p4Ac4li/dZd6T80ej1W6QpYdFrTO41AWXcRdAfKxD9c=
+github.com/mb-14/gomarkov v0.0.0-20200824165802-565ae3f3c79f/go.mod h1:OHbylrHvts0HSwPw1MdTdzcXPE62nvZoCODbToGnGPo=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
